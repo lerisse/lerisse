@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Tristan, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Tours, France</b>, currently living in <img src="https://user-images.githubusercontent.com/10137509/124514366-dc971600-ddaa-11eb-943d-370277683b2c.png" width="13"/> <b>New York, USA</b>. I built a business maintaining WordPress websites and now digging deep into how Blockchain technology can help us on a day to day basis. Also I'm an avid scuba diver!</p>
+<p>Welcome to my page! </br> I'm Tristan, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Tours, France</b>, currently living in <img src="https://user-images.githubusercontent.com/10137509/124514366-dc971600-ddaa-11eb-943d-370277683b2c.png" width="13"/> <b>New York, USA</b>. I built a business maintaining WordPress websites for a while and now digging deep into how Blockchain technology can help us on a day to day basis. Also I'm an avid scuba diver!</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
