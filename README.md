@@ -36,6 +36,7 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="CircleCI" src="https://img.shields.io/badge/circleci-343434?style=flat-square&logo=circleci&logoColor=white" />
 </p>
+<h5>What I'm learning</h5>
 <!-- <h3>Open source projects</h3>
 <table>
   <thead align="center">
