@@ -34,6 +34,7 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="CircleCI" src="https://img.shields.io/badge/circleci-343434?style=flat-square&logo=circleci&logoColor=white" />
 </p>
 <!-- <h3>Open source projects</h3>
 <table>
