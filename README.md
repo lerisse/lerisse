@@ -40,7 +40,7 @@
   <img alt="CircleCI" src="https://img.shields.io/badge/circleci-343434?style=flat-square&logo=circleci&logoColor=white" />
 </p>
 
-<h4>What I'm learning/improving</h4>
+<h4>What I'm learning / improving</h4>
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
