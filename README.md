@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Salut! Ciao! こんにちは! </h1>
 
 
-<p><b>Welcome to my page!</b> </br> I'm Tristan, Fullstack developer from <b>Tours, France</b>, currently living in <img src="https://user-images.githubusercontent.com/10137509/124514366-dc971600-ddaa-11eb-943d-370277683b2c.png" width="13"/> <b>San Diego, USA</b>. I built a business maintaining WordPress websites for a while and now digging deep into how Blockchain technology can help us on a day to day basis. I'm also an avid scuba diver!</p>
+<p><b>Welcome to my page!</b> </br> I'm Tristan, Fullstack developer from <b>Tours, France</b>, currently living in <img src="https://user-images.githubusercontent.com/10137509/124514366-dc971600-ddaa-11eb-943d-370277683b2c.png" width="13"/> <b>San Diego, USA</b>. I currently support a major WordPress support team as well as developing AI oriented projects/startups!</p>
 <h4>Things I code with</h4>
 <p>	
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=white" />
